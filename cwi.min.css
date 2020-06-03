@@ -1,0 +1,147 @@
+.bc-first {
+    background-color: rgb(56, 129, 212)
+}
+
+.bc-second {
+    background-color: blue
+}
+
+.bc-third {
+    background-color: rgb(119, 104, 156)
+}
+
+.bc-fourth {
+    background-color: rgb(110, 108, 108)
+}
+
+.bc-fifth {
+    background-color: rgb(4, 151, 4)
+}
+
+.bc-sixth {
+    background-color: #DD4124
+}
+
+.bc-seventh {
+    background-color: #955251
+}
+
+.bc-light {
+    background-color: #F7CAC9
+}
+
+.bc-emerald {
+    background-color: #009B77
+}
+
+.bc-true-red {
+    background-color: #DD4124
+}
+
+.bc-blue-izis {
+    background-color: #5B5EA6
+}
+
+.bc-sand {
+    background-color: #DFCFBE
+}
+
+.fc-white {
+    color: #fff
+}
+
+.fc-black {
+    color: #000
+}
+
+.fc-blue {
+    color: blue
+}
+
+.fc-red {
+    color: red
+}
+
+.btn-first {
+    background-color: rgb(56, 129, 212);
+    border-color: rgb(56, 129, 212);
+    color: #fff
+}
+
+.btn-first:hover {
+    background-color: rgb(42, 112, 192);
+    border-color: rgb(42, 112, 192);
+    color: #fff
+}
+
+.btn-second {
+    background-color: blue;
+    border-color: blue;
+    color: #fff
+}
+
+.btn-second:hover {
+    background-color: rgb(4, 4, 228);
+    border-color: rgb(4, 4, 228);
+    color: #fff
+}
+
+.btn-third {
+    background-color: rgb(119, 104, 156);
+    border-color: rgb(119, 104, 156);
+    color: #fff
+}
+
+.btn-third:hover {
+    background-color: #6B5B95;
+    border-color: #6B5B95;
+    color: #fff
+}
+
+.btn-fourth {
+    background-color: rgb(110, 108, 108);
+    border-color: rgb(110, 108, 108);
+    color: #fff
+}
+
+.btn-fourth:hover {
+    background-color: rgb(102, 99, 99);
+    border-color: rgb(102, 99, 99);
+    color: #fff
+}
+
+.btn-fifth {
+    background-color: rgb(4, 151, 4);
+    border-color: rgb(4, 151, 4);
+    color: #fff
+}
+
+.btn-fifth:hover {
+    background-color: green;
+    border-color: green;
+    color: #fff
+}
+
+.btn-sixth {
+    background-color: #DD4124;
+    border-color: #DD4124;
+    color: #fff
+}
+
+.btn-sixth:hover {
+    background-color: #BC243C;
+    border-color: #BC243C;
+    color: #fff
+}
+
+.btn-seventh {
+    background-color: #955251;
+    border-color: #955251;
+    color: #fff
+}
+
+.btn-seventh:hover {
+    background-color: #9b4341;
+    border-color: #9b4341;
+    color: #fff
+}
