@@ -1,3 +1,5 @@
+/* Background colors */
+
 .bc-first {
     background-color: rgb(56, 129, 212)
 }
@@ -46,6 +48,12 @@
     background-color: #DFCFBE
 }
 
+
+
+
+
+/* Text colors */
+
 .fc-white {
     color: #fff
 }
@@ -62,85 +70,91 @@
     color: red
 }
 
-.btn-first {
+
+
+
+/* Buttons */
+
+
+.btn-1 {
     background-color: rgb(56, 129, 212);
     border-color: rgb(56, 129, 212);
     color: #fff
 }
 
-.btn-first:hover {
+.btn-1:hover {
     background-color: rgb(42, 112, 192);
     border-color: rgb(42, 112, 192);
     color: #fff
 }
 
-.btn-second {
+.btn-2 {
     background-color: blue;
     border-color: blue;
     color: #fff
 }
 
-.btn-second:hover {
+.btn-2:hover {
     background-color: rgb(4, 4, 228);
     border-color: rgb(4, 4, 228);
     color: #fff
 }
 
-.btn-third {
+.btn-3 {
     background-color: rgb(119, 104, 156);
     border-color: rgb(119, 104, 156);
     color: #fff
 }
 
-.btn-third:hover {
+.btn-3:hover {
     background-color: #6B5B95;
     border-color: #6B5B95;
     color: #fff
 }
 
-.btn-fourth {
+.btn-4 {
     background-color: rgb(110, 108, 108);
     border-color: rgb(110, 108, 108);
     color: #fff
 }
 
-.btn-fourth:hover {
+.btn-4:hover {
     background-color: rgb(102, 99, 99);
     border-color: rgb(102, 99, 99);
     color: #fff
 }
 
-.btn-fifth {
+.btn-5 {
     background-color: rgb(4, 151, 4);
     border-color: rgb(4, 151, 4);
     color: #fff
 }
 
-.btn-fifth:hover {
+.btn-5:hover {
     background-color: green;
     border-color: green;
     color: #fff
 }
 
-.btn-sixth {
+.btn-6 {
     background-color: #DD4124;
     border-color: #DD4124;
     color: #fff
 }
 
-.btn-sixth:hover {
+.btn-6:hover {
     background-color: #BC243C;
     border-color: #BC243C;
     color: #fff
 }
 
-.btn-seventh {
+.btn-7 {
     background-color: #955251;
     border-color: #955251;
     color: #fff
 }
 
-.btn-seventh:hover {
+.btn-7:hover {
     background-color: #9b4341;
     border-color: #9b4341;
     color: #fff
