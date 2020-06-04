@@ -79,6 +79,10 @@
 
 /* Buttons */
 
+.btn-0 {
+    opacity: 0.6;
+    cursor: not-allowed !important;
+}
 
 .btn-1 {
     background-color: rgb(56, 129, 212);
@@ -183,6 +187,9 @@
 .btn-hshad:hover {
     box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 6px 10px 0 rgba(0,0,0,0.19);
 }
+
+. {
+    
 
 /* ************************************************************************************** */
 
