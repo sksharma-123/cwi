@@ -219,6 +219,26 @@
 
 .btn-nofocus:focus {
     box-shadow: none;
+    outline: none;
+}
+
+.btn-press-1:active {
+    transform: translateY(1px);
+}
+
+.btn-press-2:active {
+    transform: translateY(2px);
+}
+
+.btn-press-3:active {
+    transform: translateY(3px);
+}
+
+.btn-press-1:focus,
+.btn-press-2:focus,
+.btn-press-3:focus {
+    box-shadow: none;
+    outline: none;
 }
 
 /* ************************************************************************************** */
