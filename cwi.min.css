@@ -180,6 +180,8 @@
     color: #fff
 }
 
+/* **************************************************************************************************** */
+
 .btn-shad {
     box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 6px 10px 0 rgba(0,0,0,0.19);
 }
@@ -187,6 +189,8 @@
 .btn-hshad:hover {
     box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 6px 10px 0 rgba(0,0,0,0.19);
 }
+
+/* **************************************************************************************************** */
 
 .btn-ripple {
     position: relative;
@@ -217,10 +221,14 @@
     transition: 0s;
 }
 
+/* **************************************************************************************************** */
+
 .btn-nofocus:focus {
     box-shadow: none;
     outline: none;
 }
+
+/* *************************************************************************************************** */
 
 .btn-press-1:active {
     transform: translateY(1px);
@@ -239,6 +247,42 @@
 .btn-press-3:focus {
     box-shadow: none;
     outline: none;
+}
+
+/* *************************************************************************************************** */
+
+.btn-arr {
+    display: inline-block;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    min-width: 120px;
+    transition: all 0.5s;
+}
+
+.btn-arr span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.btn-arr span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.btn-arr:hover span {
+    padding-right: 25px;
+}
+
+.btn-arr:hover span:after {
+    opacity: 1;
+    right: 0;
 }
 
 /* ************************************************************************************** */
