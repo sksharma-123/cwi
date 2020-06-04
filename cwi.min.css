@@ -164,6 +164,18 @@
     color: #fff
 }
 
+.btn-prime {
+    background-color: rgb(98, 98, 250);
+    border-color: rgb(98, 98, 250);
+    color: #fff
+}
+
+.btn-prime:hover {
+    background-color: rgb(64, 64, 235);
+    border-color: rgb(64, 64, 235);
+    color: #fff
+}
+
 .btn-shad {
     box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 6px 10px 0 rgba(0,0,0,0.19);
 }
@@ -175,6 +187,76 @@
 /* ************************************************************************************** */
 
 
+/* Hover */
+
+.h-blue:hover{
+    color: white;
+    background-color: blue;
+    border-color: blue;
+    transition-duration: 0.25s;
+}
+.h-black:hover{
+    color: white;
+    background-color: black;
+    border-color: black;
+    transition-duration: 0.25s;
+}
+.h-red:hover{
+    color: white;
+    background-color: red;
+    border-color: red;
+    transition-duration: 0.25s;
+}
+.h-grey:hover{
+    color: white;
+    background-color: grey;
+    border-color: grey;
+    transition-duration: 0.25s;
+}
+.h-green:hover{
+    color: white;
+    background-color: green;
+    border-color: green;
+    transition-duration: 0.25s;
+}
+.h-prime:hover{
+    color: white;
+    background-color: rgb(98, 98, 250);
+    border-color: rgb(98, 98, 250);
+    transition-duration: 0.25s;
+}
+.h-white-black:hover{
+    color: black;
+    background-color: white;
+    transition-duration: 0.25s;
+}
+.h-white-blue:hover{
+    color: blue;
+    background-color: white;
+    transition-duration: 0.25s;
+}
+.h-white-grey:hover{
+    color: grey;
+    background-color: white;
+    transition-duration: 0.25s;
+}
+.h-white-red:hover{
+    color: red;
+    background-color: white;
+    transition-duration: 0.25s;
+}
+.h-white-green:hover{
+    color: green;
+    background-color: white;
+    transition-duration: 0.25s;
+}
+.h-white-prime:hover{
+    color: rgb(98, 98, 250);
+    background-color: white;
+    transition-duration: 0.25s;
+}
+
+/* ****************************************************************************************************** */
 
 /* Border */
 
