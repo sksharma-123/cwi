@@ -728,6 +728,25 @@
     border-right-width: 5px;
 }
 
+.b-blue {
+    border-color: blue;
+}
+.b-black {
+    border-color: black;
+}
+.b-red {
+    border-color: red;
+}
+.b-grey {
+    border-color: grey;
+}
+.b-green {
+    border-color: green;
+}
+.b-white {
+    border-color: white;
+}
+
 /* ****************************************************************************************** */
 
 /* border-radius */
